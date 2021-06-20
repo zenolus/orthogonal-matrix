@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/orthogonal-matrix/static/css/main.f374e58f.chunk.css",
+    "main.js": "/orthogonal-matrix/static/js/main.0590f018.chunk.js",
+    "main.js.map": "/orthogonal-matrix/static/js/main.0590f018.chunk.js.map",
+    "runtime-main.js": "/orthogonal-matrix/static/js/runtime-main.cd618b71.js",
+    "runtime-main.js.map": "/orthogonal-matrix/static/js/runtime-main.cd618b71.js.map",
+    "static/css/2.15a7a700.chunk.css": "/orthogonal-matrix/static/css/2.15a7a700.chunk.css",
+    "static/js/2.43da611a.chunk.js": "/orthogonal-matrix/static/js/2.43da611a.chunk.js",
+    "static/js/2.43da611a.chunk.js.map": "/orthogonal-matrix/static/js/2.43da611a.chunk.js.map",
+    "static/js/3.b9465b82.chunk.js": "/orthogonal-matrix/static/js/3.b9465b82.chunk.js",
+    "static/js/3.b9465b82.chunk.js.map": "/orthogonal-matrix/static/js/3.b9465b82.chunk.js.map",
+    "index.html": "/orthogonal-matrix/index.html",
+    "static/css/2.15a7a700.chunk.css.map": "/orthogonal-matrix/static/css/2.15a7a700.chunk.css.map",
+    "static/css/main.f374e58f.chunk.css.map": "/orthogonal-matrix/static/css/main.f374e58f.chunk.css.map",
+    "static/js/2.43da611a.chunk.js.LICENSE.txt": "/orthogonal-matrix/static/js/2.43da611a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd618b71.js",
+    "static/css/2.15a7a700.chunk.css",
+    "static/js/2.43da611a.chunk.js",
+    "static/css/main.f374e58f.chunk.css",
+    "static/js/main.0590f018.chunk.js"
+  ]
+}
